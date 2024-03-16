@@ -1,0 +1,322 @@
+[
+    {
+      "en": "actor, actress",
+      "pl": "aktor, aktorka"
+    },
+    {
+      "en": "alchemist",
+      "pl": "alchemik"
+    },
+    {
+      "en": "archaeologist",
+      "pl": "archeolog"
+    },
+    {
+      "en": "artist",
+      "pl": "artysta/artystka"
+    },
+    {
+      "en": "assistant",
+      "pl": "asystent/asystentka"
+    },
+    {
+      "en": "astronaut",
+      "pl": "astronauta"
+    },
+    {
+      "en": "athlete",
+      "pl": "sportowiec"
+    },
+    {
+      "en": "babysitter",
+      "pl": "opiekun/opiekunka do dzieci"
+    },
+    {
+      "en": "bank clerk",
+      "pl": "urzędnik bankowy"
+    },
+    {
+      "en": "banker",
+      "pl": "bankier"
+    },
+    {
+      "en": "businessman",
+      "pl": "biznesmen"
+    },
+    {
+      "en": "chauffeur",
+      "pl": "szofer"
+    },
+    {
+      "en": "chef",
+      "pl": "szef kuchni"
+    },
+    {
+      "en": "comedian",
+      "pl": "komik"
+    },
+    {
+      "en": "composer",
+      "pl": "kompozytor/kompozytorka"
+    },
+    {
+      "en": "computer engineer",
+      "pl": "inżynier informatyk"
+    },
+    {
+      "en": "conductor",
+      "pl": "dyrygent, konduktor"
+    },
+    {
+      "en": "dancer",
+      "pl": "tancerz"
+    },
+    {
+      "en": "dentist",
+      "pl": "dentysta/dentystka"
+    },
+    {
+      "en": "detective",
+      "pl": "detektyw"
+    },
+    {
+      "en": "diplomat",
+      "pl": "dyplomata"
+    },
+    {
+      "en": "director",
+      "pl": "reżyser, dyrektor/dyrektorka"
+    },
+    {
+      "en": "doctor",
+      "pl": "lekarz/lekarka"
+    },
+    {
+      "en": "economist",
+      "pl": "ekonomista/ekonomistka"
+    },
+    {
+      "en": "editor",
+      "pl": "redaktor/redaktorka"
+    },
+    {
+      "en": "engineer",
+      "pl": "inżynier"
+    },
+    {
+      "en": "fashion designer",
+      "pl": "projektant/projektantka"
+    },
+    {
+      "en": "firefighter, fireman",
+      "pl": "strażak"
+    },
+    {
+      "en": "gardener",
+      "pl": "ogrodnik/ogrodniczka"
+    },
+    {
+      "en": "historian",
+      "pl": "historyk"
+    },
+    {
+      "en": "judge",
+      "pl": "sędzia/sędzina"
+    },
+    {
+      "en": "kitchen helper",
+      "pl": "pomocnik kucharza"
+    },
+    {
+      "en": "lawyer",
+      "pl": "prawnik/prawniczka"
+    },
+    {
+      "en": "linguist",
+      "pl": "językoznawca"
+    },
+    {
+      "en": "lorry driver",
+      "pl": "kierowca ciężarówki"
+    },
+    {
+      "en": "magician",
+      "pl": "magik"
+    },
+    {
+      "en": "make-up artist",
+      "pl": "charakteryzator/charakteryzatorka"
+    },
+    {
+      "en": "manager",
+      "pl": "kierownik/kierowniczka"
+    },
+    {
+      "en": "mathematician",
+      "pl": "matematyk"
+    },
+    {
+      "en": "mechanic",
+      "pl": "mechanik"
+    },
+    {
+      "en": "musician",
+      "pl": "muzyk"
+    },
+    {
+      "en": "nanny",
+      "pl": "niania"
+    },
+    {
+      "en": "nurse",
+      "pl": "pielęgniarka/pielęgniarz"
+    },
+    {
+      "en": "painter",
+      "pl": "malarz/malarka"
+    },
+    {
+      "en": "pilot",
+      "pl": "pilot"
+    },
+    {
+      "en": "police officer",
+      "pl": "policjant/policjantka"
+    },
+    {
+      "en": "policeman",
+      "pl": "policjant"
+    },
+    {
+      "en": "policewoman",
+      "pl": "policjantka"
+    },
+    {
+      "en": "politician",
+      "pl": "polityk"
+    },
+    {
+      "en": "receptionist",
+      "pl": "recepcjonista/recepcjonistka"
+    },
+    {
+      "en": "sailor",
+      "pl": "marynarz"
+    },
+    {
+      "en": "scientist",
+      "pl": "naukowiec"
+    },
+    {
+      "en": "secretary",
+      "pl": "sekretarka"
+    },
+    {
+      "en": "servant",
+      "pl": "służący"
+    },
+    {
+      "en": "singer",
+      "pl": "piosenkarz/piosenkarka"
+    },
+    {
+      "en": "surgeon",
+      "pl": "chirurg"
+    },
+    {
+      "en": "taxi driver",
+      "pl": "taksówkarz"
+    },
+    {
+      "en": "teacher",
+      "pl": "nauczyciel/nauczycielka"
+    },
+    {
+      "en": "vet",
+      "pl": "weterynarz"
+    },
+    {
+      "en": "waiter",
+      "pl": "kelner"
+    },
+    {
+      "en": "waitress",
+      "pl": "kelnerka"
+    },
+    {
+      "en": "writer",
+      "pl": "pisarz/pisarka"
+    },
+    {
+      "en": "shop",
+      "pl": "sklep"
+    },
+    {
+      "en": "restaurant",
+      "pl": "restauracja"
+    },
+    {
+      "en": "prison",
+      "pl": "więzienie"
+    },
+    {
+      "en": "post office",
+      "pl": "poczta"
+    },
+    {
+      "en": "office",
+      "pl": "biuro"
+    },
+    {
+      "en": "museum",
+      "pl": "muzeum"
+    },
+    {
+      "en": "library",
+      "pl": "biblioteka"
+    },
+    {
+      "en": "law court",
+      "pl": "sąd"
+    },
+    {
+      "en": "hotel",
+      "pl": "hotel"
+    },
+    {
+      "en": "hospital",
+      "pl": "szpital"
+    },
+    {
+      "en": "bookshop",
+      "pl": "księgarnia"
+    },
+    {
+      "en": "bank",
+      "pl": "bank"
+    },
+    {
+      "en": "art gallery",
+      "pl": "galeria sztuki"
+    },
+    {
+      "en": "airport",
+      "pl": "lotnisko"
+    },
+    {
+      "en": "be away from home",
+      "pl": "być zdala od domu"
+    },
+    {
+      "en": "call",
+      "pl": "dzwonić"
+    },
+    {
+      "en": "drive a vehicle",
+      "pl": "prowadzić pojazd"
+    },
+    {
+      "en": "educate people",
+      "pl": "kształcić ludzi"
+    }
+  ]

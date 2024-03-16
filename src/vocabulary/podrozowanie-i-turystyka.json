@@ -1,0 +1,322 @@
+[
+    {
+      "en": "accommodation",
+      "pl": "zakwaterowanie"
+    },
+    {
+      "en": "aqua park",
+      "pl": "wodny park rozrywki"
+    },
+    {
+      "en": "art gallery",
+      "pl": "galeria sztuki"
+    },
+    {
+      "en": "backpack",
+      "pl": "plecak"
+    },
+    {
+      "en": "beach",
+      "pl": "plaża"
+    },
+    {
+      "en": "camping",
+      "pl": "biwakowanie"
+    },
+    {
+      "en": "campsite",
+      "pl": "pole biwakowe"
+    },
+    {
+      "en": "climbing",
+      "pl": "wspinaczka"
+    },
+    {
+      "en": "countryside",
+      "pl": "wieś"
+    },
+    {
+      "en": "cruise",
+      "pl": "rejs"
+    },
+    {
+      "en": "cycling",
+      "pl": "jazda na rowerze"
+    },
+    {
+      "en": "dive",
+      "pl": "nurkować"
+    },
+    {
+      "en": "do water sports",
+      "pl": "uprawiać sporty wodne"
+    },
+    {
+      "en": "eat in restaurants",
+      "pl": "jeść w restauracjach"
+    },
+    {
+      "en": "fishing",
+      "pl": "łowienie ryb"
+    },
+    {
+      "en": "holiday",
+      "pl": "wakacje"
+    },
+    {
+      "en": "holidaymaker",
+      "pl": "urlopowicz"
+    },
+    {
+      "en": "horse riding",
+      "pl": "jazda konna"
+    },
+    {
+      "en": "ice-skating",
+      "pl": "jazda na łyżwach"
+    },
+    {
+      "en": "plane",
+      "pl": "samolot"
+    },
+    {
+      "en": "airport",
+      "pl": "lotnisko"
+    },
+    {
+      "en": "arrivals",
+      "pl": "przyloty"
+    },
+    {
+      "en": "arrive",
+      "pl": "przyjeżdżać"
+    },
+    {
+      "en": "bus",
+      "pl": "autobus"
+    },
+    {
+      "en": "bus stop",
+      "pl": "przystanek autobusowy"
+    },
+    {
+      "en": "cancellation",
+      "pl": "odwołanie"
+    },
+    {
+      "en": "car park",
+      "pl": "parking"
+    },
+    {
+      "en": "coach",
+      "pl": "autokar"
+    },
+    {
+      "en": "deck",
+      "pl": "pokład"
+    },
+    {
+      "en": "delay",
+      "pl": "opóźnienie"
+    },
+    {
+      "en": "departures",
+      "pl": "odjazdy, odloty"
+    },
+    {
+      "en": "ferry",
+      "pl": "prom"
+    },
+    {
+      "en": "fly",
+      "pl": "latać"
+    },
+    {
+      "en": "get off",
+      "pl": "wysiadać"
+    },
+    {
+      "en": "gondola",
+      "pl": "gondola"
+    },
+    {
+      "en": "harbour",
+      "pl": "port"
+    },
+    {
+      "en": "helicopter",
+      "pl": "helikopter"
+    },
+    {
+      "en": "jeep",
+      "pl": "samochód terenowy"
+    },
+    {
+      "en": "journey",
+      "pl": "podróż"
+    },
+    {
+      "en": "land",
+      "pl": "lądować"
+    },
+    {
+      "en": "leave",
+      "pl": "opuszczać"
+    },
+    {
+      "en": "lorry",
+      "pl": "ciężarówka"
+    },
+    {
+      "en": "passenger",
+      "pl": "pasażer"
+    },
+    {
+      "en": "passport",
+      "pl": "paszport"
+    },
+    {
+      "en": "platform",
+      "pl": "peron"
+    },
+    {
+      "en": "port",
+      "pl": "port"
+    },
+    {
+      "en": "ship",
+      "pl": "statek"
+    },
+    {
+      "en": "station",
+      "pl": "stacja"
+    },
+    {
+      "en": "submarine",
+      "pl": "łódź podwodna"
+    },
+    {
+      "en": "suitcase",
+      "pl": "walizka"
+    },
+    {
+      "en": "take off",
+      "pl": "wystartować"
+    },
+    {
+      "en": "taxi",
+      "pl": "taksówka"
+    },
+    {
+      "en": "train",
+      "pl": "pociąg"
+    },
+    {
+      "en": "tram",
+      "pl": "tramwaj"
+    },
+    {
+      "en": "travel",
+      "pl": "podróżować"
+    },
+    {
+      "en": "trip",
+      "pl": "wycieczka"
+    },
+    {
+      "en": "vehicle",
+      "pl": "pojazd"
+    },
+    {
+      "en": "yacht",
+      "pl": "jacht"
+    },
+    {
+      "en": "room",
+      "pl": "pokój"
+    },
+    {
+      "en": "travel card",
+      "pl": "bilet okresowy"
+    },
+    {
+      "en": "avenue",
+      "pl": "aleja"
+    },
+    {
+      "en": "behind",
+      "pl": "za, z tyłu"
+    },
+    {
+      "en": "between",
+      "pl": "pomiędzy"
+    },
+    {
+      "en": "corner",
+      "pl": "róg"
+    },
+    {
+      "en": "cross",
+      "pl": "przechodzić"
+    },
+    {
+      "en": "go along",
+      "pl": "iść wzdłuż"
+    },
+    {
+      "en": "go past",
+      "pl": "iść obok"
+    },
+    {
+      "en": "go straight on",
+      "pl": "iść prosto"
+    },
+    {
+      "en": "in",
+      "pl": "w"
+    },
+    {
+      "en": "in front of",
+      "pl": "przed"
+    },
+    {
+      "en": "inside",
+      "pl": "wewnątrz"
+    },
+    {
+      "en": "motorway",
+      "pl": "autostrada"
+    },
+    {
+      "en": "near",
+      "pl": "blisko"
+    },
+    {
+      "en": "next to",
+      "pl": "obok"
+    },
+    {
+      "en": "opposite",
+      "pl": "naprzeciwko"
+    },
+    {
+      "en": "outside",
+      "pl": "na zewnątrz"
+    },
+    {
+      "en": "road",
+      "pl": "droga"
+    },
+    {
+      "en": "roundabout",
+      "pl": "rondo"
+    },
+    {
+      "en": "street",
+      "pl": "ulica"
+    },
+    {
+      "en": "sea",
+      "pl": "morze"
+    }
+  ]

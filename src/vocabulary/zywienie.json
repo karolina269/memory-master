@@ -1,0 +1,390 @@
+[
+    {
+      "en": "a tin of",
+      "pl": "puszka"
+    },
+    {
+      "en": "a spoonful of",
+      "pl": "łyżka, łyżeczka"
+    },
+    {
+      "en": "a slice of",
+      "pl": "kawałek"
+    },
+    {
+      "en": "a lot of",
+      "pl": "dużo"
+    },
+    {
+      "en": "a little",
+      "pl": "troszkę"
+    },
+    {
+      "en": "a jar of",
+      "pl": "słoik"
+    },
+    {
+      "en": "a few",
+      "pl": "kilka"
+    },
+    {
+      "en": "apple",
+      "pl": "jabłko"
+    },
+    {
+      "en": "avocado",
+      "pl": "awokado"
+    },
+    {
+      "en": "bacon",
+      "pl": "bekon"
+    },
+    {
+      "en": "banana",
+      "pl": "banan"
+    },
+    {
+      "en": "bean",
+      "pl": "fasola"
+    },
+    {
+      "en": "beef",
+      "pl": "wołowina"
+    },
+    {
+      "en": "biscuit",
+      "pl": "herbatnik"
+    },
+    {
+      "en": "bread",
+      "pl": "chleb"
+    },
+    {
+      "en": "breakfast",
+      "pl": "śniadanie"
+    },
+    {
+      "en": "butter",
+      "pl": "masło"
+    },
+    {
+      "en": "cabbage",
+      "pl": "kapusta"
+    },
+    {
+      "en": "cake",
+      "pl": "ciasto"
+    },
+    {
+      "en": "carbohydrates",
+      "pl": "węglowodany"
+    },
+    {
+      "en": "carrot",
+      "pl": "marchewka"
+    },
+    {
+      "en": "cauliflower",
+      "pl": "kalafior"
+    },
+    {
+      "en": "cereal",
+      "pl": "płatki zbożowe"
+    },
+    {
+      "en": "cheese",
+      "pl": "ser"
+    },
+    {
+      "en": "chicken",
+      "pl": "kurczak"
+    },
+    {
+      "en": "chips",
+      "pl": "frytki"
+    },
+    {
+      "en": "chocolate",
+      "pl": "czekolada"
+    },
+    {
+      "en": "coconut",
+      "pl": "orzech kokosowy"
+    },
+    {
+      "en": "coffee",
+      "pl": "kawa"
+    },
+    {
+      "en": "cola",
+      "pl": "coca-cola"
+    },
+    {
+      "en": "cream",
+      "pl": "śmietana"
+    },
+    {
+      "en": "crisps",
+      "pl": "chipsy"
+    },
+    {
+      "en": "croissant",
+      "pl": "rogalik"
+    },
+    {
+      "en": "cucumber",
+      "pl": "ogórek"
+    },
+    {
+      "en": "delicious",
+      "pl": "smakowity"
+    },
+    {
+      "en": "doughnut",
+      "pl": "pączek"
+    },
+    {
+      "en": "dressing",
+      "pl": "sos do sałatek"
+    },
+    {
+      "en": "drink",
+      "pl": "napój"
+    },
+    {
+      "en": "egg",
+      "pl": "jajko"
+    },
+    {
+      "en": "fat",
+      "pl": "tłuszcz"
+    },
+    {
+      "en": "fibre",
+      "pl": "błonnik"
+    },
+    {
+      "en": "fish",
+      "pl": "ryba"
+    },
+    {
+      "en": "fizzy drink",
+      "pl": "napój gazowany"
+    },
+    {
+      "en": "flour",
+      "pl": "mąka"
+    },
+    {
+      "en": "food",
+      "pl": "żywność, jedzenie"
+    },
+    {
+      "en": "fruit",
+      "pl": "owoce"
+    },
+    {
+      "en": "fruit juice",
+      "pl": "sok owocowy"
+    },
+    {
+      "en": "garlic",
+      "pl": "czosnek"
+    },
+    {
+      "en": "grape",
+      "pl": "winogrono"
+    },
+    {
+      "en": "ham",
+      "pl": "szynka"
+    },
+    {
+      "en": "ice cream",
+      "pl": "lody"
+    },
+    {
+      "en": "juicy",
+      "pl": "soczysty"
+    },
+    {
+      "en": "junk food",
+      "pl": "niezdrowa żywność"
+    },
+    {
+      "en": "lamb",
+      "pl": "jagnięcina"
+    },
+    {
+      "en": "lasagne",
+      "pl": "lazania"
+    },
+    {
+      "en": "lemon",
+      "pl": "cytryna"
+    },
+    {
+      "en": "lettuce",
+      "pl": "sałata"
+    },
+    {
+      "en": "mango",
+      "pl": "mango"
+    },
+    {
+      "en": "mayonnaise",
+      "pl": "majonez"
+    },
+    {
+      "en": "meat",
+      "pl": "mięso"
+    },
+    {
+      "en": "melon",
+      "pl": "melon"
+    },
+    {
+      "en": "milk",
+      "pl": "mleko"
+    },
+    {
+      "en": "mince, mincemeat",
+      "pl": "mięso mielone"
+    },
+    {
+      "en": "mushroom",
+      "pl": "grzyb"
+    },
+    {
+      "en": "nut",
+      "pl": "orzech"
+    },
+    {
+      "en": "oil",
+      "pl": "olej"
+    },
+    {
+      "en": "olive oil",
+      "pl": "oliwa z oliwek"
+    },
+    {
+      "en": "olives",
+      "pl": "oliwki"
+    },
+    {
+      "en": "omelette",
+      "pl": "omlet"
+    },
+    {
+      "en": "onion",
+      "pl": "cebula"
+    },
+    {
+      "en": "orange",
+      "pl": "pomarańcza"
+    },
+    {
+      "en": "pancake",
+      "pl": "naleśnik"
+    },
+    {
+      "en": "pasta",
+      "pl": "makaron"
+    },
+    {
+      "en": "pea",
+      "pl": "groszek"
+    },
+    {
+      "en": "pear",
+      "pl": "gruszka"
+    },
+    {
+      "en": "pepper",
+      "pl": "papryka"
+    },
+    {
+      "en": "pizza",
+      "pl": "pizza"
+    },
+    {
+      "en": "pork",
+      "pl": "wieprzowina"
+    },
+    {
+      "en": "potato",
+      "pl": "ziemniaki"
+    },
+    {
+      "en": "prawn, shrimp",
+      "pl": "krewetka"
+    },
+    {
+      "en": "protein",
+      "pl": "białko"
+    },
+    {
+      "en": "rice",
+      "pl": "ryż"
+    },
+    {
+      "en": "salad",
+      "pl": "sałatka"
+    },
+    {
+      "en": "salt",
+      "pl": "sól"
+    },
+    {
+      "en": "salty",
+      "pl": "słony"
+    },
+    {
+      "en": "sandwich",
+      "pl": "kanapka"
+    },
+    {
+      "en": "sausage",
+      "pl": "kiełbasa"
+    },
+    {
+      "en": "soup",
+      "pl": "zupa"
+    },
+    {
+      "en": "sour",
+      "pl": "kwaśny"
+    },
+    {
+      "en": "spicy",
+      "pl": "ostry"
+    },
+    {
+      "en": "steak",
+      "pl": "stek"
+    },
+    {
+      "en": "strawberry",
+      "pl": "truskawka"
+    },
+    {
+      "en": "sugar",
+      "pl": "cukier"
+    },
+    {
+      "en": "sweet",
+      "pl": "słodki"
+    },
+    {
+      "en": "sweets",
+      "pl": "słodycze"
+    },
+    {
+      "en": "tasty",
+      "pl": "smaczny"
+    },
+    {
+      "en": "tea",
+      "pl": "herbata"
+    }
+  ]

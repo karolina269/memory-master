@@ -1,0 +1,482 @@
+[
+  {
+    "en": "accident",
+    "pl": "wypadek"
+  },
+  {
+    "en": "ache, pain",
+    "pl": "ból"
+  },
+  {
+    "en": "addict",
+    "pl": "nałogowiec"
+  },
+  {
+    "en": "allergic(to)",
+    "pl": "uczulony(na)"
+  },
+  {
+    "en": "allergy",
+    "pl": "alergia"
+  },
+  {
+    "en": "asthma",
+    "pl": "astma"
+  },
+  {
+    "en": "bacteria",
+    "pl": "bakterie"
+  },
+  {
+    "en": "be sick, vomit",
+    "pl": "wymiotować"
+  },
+  {
+    "en": "blocked nose",
+    "pl": "zatkany nos"
+  },
+  {
+    "en": "cancer",
+    "pl": "nowotwór"
+  },
+  {
+    "en": "cold",
+    "pl": "przeziębienie"
+  },
+  {
+    "en": "cough",
+    "pl": "kaszel"
+  },
+  {
+    "en": "deaf",
+    "pl": "głuchy"
+  },
+  {
+    "en": "dentist",
+    "pl": "dentysta/dentystka"
+  },
+  {
+    "en": "disabled",
+    "pl": "niepełnosprawny"
+  },
+  {
+    "en": "disease",
+    "pl": "choroba"
+  },
+  {
+    "en": "dizzy",
+    "pl": "zawroty głowy"
+  },
+  {
+    "en": "doctor",
+    "pl": "lekarz"
+  },
+  {
+    "en": "earache",
+    "pl": "ból ucha"
+  },
+  {
+    "en": "emergency",
+    "pl": "nagły wypadek"
+  },
+  {
+    "en": "epidemic",
+    "pl": "epidemia"
+  },
+  {
+    "en": "feel",
+    "pl": "czuć się"
+  },
+  {
+    "en": "flu",
+    "pl": "grypa"
+  },
+  {
+    "en": "hay fever",
+    "pl": "alergia, katar sienny"
+  },
+  {
+    "en": "headache",
+    "pl": "ból głowy"
+  },
+  {
+    "en": "health",
+    "pl": "zdrowie"
+  },
+  {
+    "en": "healthy",
+    "pl": "zdrowy"
+  },
+  {
+    "en": "heart disease",
+    "pl": "choroba serca"
+  },
+  {
+    "en": "ill",
+    "pl": "chory"
+  },
+  {
+    "en": "illness",
+    "pl": "choroba"
+  },
+  {
+    "en": "injury",
+    "pl": "rana"
+  },
+  {
+    "en": "obesity",
+    "pl": "otyłość"
+  },
+  {
+    "en": "off sick",
+    "pl": "na zwolnieniu"
+  },
+  {
+    "en": "overweight",
+    "pl": "nadwaga"
+  },
+  {
+    "en": "pain",
+    "pl": "ból"
+  },
+  {
+    "en": "rash",
+    "pl": "wysypka"
+  },
+  {
+    "en": "sick",
+    "pl": "chory"
+  },
+  {
+    "en": "sneezing",
+    "pl": "kichanie"
+  },
+  {
+    "en": "sore throat",
+    "pl": "ból gardła"
+  },
+  {
+    "en": "sprained ankle",
+    "pl": "zwichnięta kostka"
+  },
+  {
+    "en": "stomach ache",
+    "pl": "ból żołądka"
+  },
+  {
+    "en": "stress",
+    "pl": "stres"
+  },
+  {
+    "en": "symptom",
+    "pl": "objaw"
+  },
+  {
+    "en": "temperature",
+    "pl": "temperatura"
+  },
+  {
+    "en": "tense",
+    "pl": "spięty"
+  },
+  {
+    "en": "tired",
+    "pl": "zmęczony"
+  },
+  {
+    "en": "toothache",
+    "pl": "ból zęba"
+  },
+  {
+    "en": "unhealthy",
+    "pl": "niezdrowy"
+  },
+  {
+    "en": "vomit",
+    "pl": "wymiotować"
+  },
+  {
+    "en": "ankle",
+    "pl": "kostka"
+  },
+  {
+    "en": "arm",
+    "pl": "ręka, ramię"
+  },
+  {
+    "en": "back",
+    "pl": "plecy"
+  },
+  {
+    "en": "body",
+    "pl": "ciało"
+  },
+  {
+    "en": "bottom",
+    "pl": "siedzenie"
+  },
+  {
+    "en": "cheek",
+    "pl": "policzek"
+  },
+  {
+    "en": "chin",
+    "pl": "broda"
+  },
+  {
+    "en": "ear",
+    "pl": "ucho"
+  },
+  {
+    "en": "elbow",
+    "pl": "łokieć"
+  },
+  {
+    "en": "eye",
+    "pl": "oko"
+  },
+  {
+    "en": "eyebrow",
+    "pl": "brew"
+  },
+  {
+    "en": "face",
+    "pl": "twarz"
+  },
+  {
+    "en": "finger",
+    "pl": "palec (u ręki)"
+  },
+  {
+    "en": "foot",
+    "pl": "stopa"
+  },
+  {
+    "en": "feet",
+    "pl": "stopy"
+  },
+  {
+    "en": "hair",
+    "pl": "włosy"
+  },
+  {
+    "en": "hand",
+    "pl": "ręka"
+  },
+  {
+    "en": "head",
+    "pl": "głowa"
+  },
+  {
+    "en": "heart",
+    "pl": "serce"
+  },
+  {
+    "en": "hip",
+    "pl": "biodro"
+  },
+  {
+    "en": "knee",
+    "pl": "kolano"
+  },
+  {
+    "en": "leg",
+    "pl": "noga"
+  },
+  {
+    "en": "lip",
+    "pl": "warga"
+  },
+  {
+    "en": "mouth",
+    "pl": "usta"
+  },
+  {
+    "en": "neck",
+    "pl": "szyja"
+  },
+  {
+    "en": "nose",
+    "pl": "nos"
+  },
+  {
+    "en": "shoulder",
+    "pl": "ramię"
+  },
+  {
+    "en": "stomach",
+    "pl": "żołądek"
+  },
+  {
+    "en": "throat",
+    "pl": "gardło"
+  },
+  {
+    "en": "toe",
+    "pl": "palec (u nogi)"
+  },
+  {
+    "en": "tooth, teeth",
+    "pl": "zęb, zęby"
+  },
+  {
+    "en": "tummy",
+    "pl": "brzuch"
+  },
+  {
+    "en": "wrist",
+    "pl": "nadgarstek"
+  },
+  {
+    "en": "well-being",
+    "pl": "dobre samopoczucie"
+  },
+  {
+    "en": "walk",
+    "pl": "spacerować"
+  },
+  {
+    "en": "vitamin",
+    "pl": "witamina"
+  },
+  {
+    "en": "take",
+    "pl": "brać"
+  },
+  {
+    "en": "relaxing music",
+    "pl": "muzyka odprężająca"
+  },
+  {
+    "en": "relax",
+    "pl": "odpoczywać"
+  },
+  {
+    "en": "practise yoga",
+    "pl": "ćwiczyć jogę"
+  },
+  {
+    "en": "nutrition",
+    "pl": "odżywianie"
+  },
+  {
+    "en": "meditation",
+    "pl": "medytacja"
+  },
+  {
+    "en": "massage",
+    "pl": "masaż"
+  },
+  {
+    "en": "holidays",
+    "pl": "wakacje"
+  },
+  {
+    "en": "healthy",
+    "pl": "zdrowy"
+  },
+  {
+    "en": "health spa",
+    "pl": "uzdrowisko"
+  },
+  {
+    "en": "get",
+    "pl": "dostawać"
+  },
+  {
+    "en": "fit",
+    "pl": "w dobrej formie"
+  },
+  {
+    "en": "feel well",
+    "pl": "dobrze się czuć"
+  },
+  {
+    "en": "energetic",
+    "pl": "pełen energii"
+  },
+  {
+    "en": "eat healthy food",
+    "pl": "jeść zdrową żywność"
+  },
+  {
+    "en": "drink a lot of water",
+    "pl": "pić dużo wody"
+  },
+  {
+    "en": "diet",
+    "pl": "dieta"
+  },
+  {
+    "en": "cut down on sth",
+    "pl": "ograniczać"
+  },
+  {
+    "en": "calm down",
+    "pl": "uspakajać się"
+  },
+  {
+    "en": "x-ray",
+    "pl": "rentgen"
+  },
+  {
+    "en": "wound",
+    "pl": "rana"
+  },
+  {
+    "en": "twisted",
+    "pl": "skręcony"
+  },
+  {
+    "en": "twist",
+    "pl": "skręcić"
+  },
+  {
+    "en": "treatment",
+    "pl": "leczenie"
+  },
+  {
+    "en": "treat",
+    "pl": "leczyć"
+  },
+  {
+    "en": "surgery",
+    "pl": "operacja"
+  },
+  {
+    "en": "specialist",
+    "pl": "specjalista"
+  },
+  {
+    "en": "scald",
+    "pl": "oparzyć"
+  },
+  {
+    "en": "run",
+    "pl": "polać"
+  },
+  {
+    "en": "prescribe",
+    "pl": "przepisywać"
+  },
+  {
+    "en": "plaster",
+    "pl": "gips"
+  },
+  {
+    "en": "patient",
+    "pl": "pacjent"
+  },
+  {
+    "en": "look after",
+    "pl": "opiekować się"
+  },
+  {
+    "en": "hospital",
+    "pl": "szpital"
+  },
+  {
+    "en": "hit",
+    "pl": "uderzać"
+  }
+]

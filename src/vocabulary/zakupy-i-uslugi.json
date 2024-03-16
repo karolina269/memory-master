@@ -1,0 +1,402 @@
+[
+    {
+      "en": "cotton",
+      "pl": "bawełna"
+    },
+    {
+      "en": "leather",
+      "pl": "skóra"
+    },
+    {
+      "en": "material",
+      "pl": "materiał"
+    },
+    {
+      "en": "nylon",
+      "pl": "nylon"
+    },
+    {
+      "en": "silk",
+      "pl": "jedwab"
+    },
+    {
+      "en": "wool",
+      "pl": "wełna"
+    },
+    {
+      "en": "advertisement",
+      "pl": "reklama"
+    },
+    {
+      "en": "billboard",
+      "pl": "billboard"
+    },
+    {
+      "en": "brand",
+      "pl": "znak firmowy"
+    },
+    {
+      "en": "brochure",
+      "pl": "broszura reklamowa"
+    },
+    {
+      "en": "campaign",
+      "pl": "kampania"
+    },
+    {
+      "en": "commercial",
+      "pl": "reklama"
+    },
+    {
+      "en": "leaflet",
+      "pl": "ulotka reklamowa"
+    },
+    {
+      "en": "product",
+      "pl": "produkt"
+    },
+    {
+      "en": "baker's",
+      "pl": "piekarnia"
+    },
+    {
+      "en": "bookshop",
+      "pl": "księgarnia"
+    },
+    {
+      "en": "boutique",
+      "pl": "butik"
+    },
+    {
+      "en": "butcher's",
+      "pl": "sklep mięsny"
+    },
+    {
+      "en": "greengrocer's",
+      "pl": "warzywniak"
+    },
+    {
+      "en": "kiosk",
+      "pl": "kiosk"
+    },
+    {
+      "en": "market",
+      "pl": "bazar, targ"
+    },
+    {
+      "en": "pharmacy, chemist's",
+      "pl": "apteka"
+    },
+    {
+      "en": "shop",
+      "pl": "sklep"
+    },
+    {
+      "en": "clothes shop",
+      "pl": "sklep z ubraniami"
+    },
+    {
+      "en": "computer shop",
+      "pl": "sklep komputerowy"
+    },
+    {
+      "en": "electrical shop",
+      "pl": "sklep elektryczny"
+    },
+    {
+      "en": "jewellery shop",
+      "pl": "jubiler"
+    },
+    {
+      "en": "music shop",
+      "pl": "sklep muzyczny"
+    },
+    {
+      "en": "pet shop",
+      "pl": "sklep zoologiczny"
+    },
+    {
+      "en": "shoe shop",
+      "pl": "sklep obuwniczy"
+    },
+    {
+      "en": "sports shop",
+      "pl": "sklep sportowy"
+    },
+    {
+      "en": "shopping centre",
+      "pl": "centrum handlowe"
+    },
+    {
+      "en": "stall",
+      "pl": "stoisko"
+    },
+    {
+      "en": "be out of order",
+      "pl": "nie działać"
+    },
+    {
+      "en": "broken",
+      "pl": "zepsuty"
+    },
+    {
+      "en": "customer",
+      "pl": "klient"
+    },
+    {
+      "en": "damaged",
+      "pl": "zepsuty"
+    },
+    {
+      "en": "exchange",
+      "pl": "wymiana"
+    },
+    {
+      "en": "hole",
+      "pl": "dziura"
+    },
+    {
+      "en": "miss",
+      "pl": "brakować"
+    },
+    {
+      "en": "receipt",
+      "pl": "paragon"
+    },
+    {
+      "en": "refund",
+      "pl": "zwrot pieniędzy"
+    },
+    {
+      "en": "scratch",
+      "pl": "rysa"
+    },
+    {
+      "en": "take back",
+      "pl": "oddawać"
+    },
+    {
+      "en": "bargain",
+      "pl": "okazja"
+    },
+    {
+      "en": "borrow",
+      "pl": "pożyczać"
+    },
+    {
+      "en": "cash",
+      "pl": "gotówka"
+    },
+    {
+      "en": "cash machine",
+      "pl": "bankomat"
+    },
+    {
+      "en": "change",
+      "pl": "reszta"
+    },
+    {
+      "en": "cheap",
+      "pl": "tani"
+    },
+    {
+      "en": "cheque",
+      "pl": "czek"
+    },
+    {
+      "en": "coin",
+      "pl": "moneta"
+    },
+    {
+      "en": "cost",
+      "pl": "kosztować"
+    },
+    {
+      "en": "credit card",
+      "pl": "karta kredytowa"
+    },
+    {
+      "en": "currency",
+      "pl": "waluta"
+    },
+    {
+      "en": "discount",
+      "pl": "zniżka"
+    },
+    {
+      "en": "earn",
+      "pl": "zarabiać"
+    },
+    {
+      "en": "expensive",
+      "pl": "drogi"
+    },
+    {
+      "en": "half-price",
+      "pl": "połowa ceny"
+    },
+    {
+      "en": "how much",
+      "pl": "ile"
+    },
+    {
+      "en": "lend",
+      "pl": "pożyczać"
+    },
+    {
+      "en": "money",
+      "pl": "pieniądze"
+    },
+    {
+      "en": "note",
+      "pl": "banknot"
+    },
+    {
+      "en": "on sale",
+      "pl": "na sprzedaż"
+    },
+    {
+      "en": "pay back",
+      "pl": "spłacać"
+    },
+    {
+      "en": "pocket money",
+      "pl": "kieszonkowe"
+    },
+    {
+      "en": "price",
+      "pl": "cena"
+    },
+    {
+      "en": "sale",
+      "pl": "przecena, sprzedaż"
+    },
+    {
+      "en": "wear",
+      "pl": "nosić"
+    },
+    {
+      "en": "T-shirt",
+      "pl": "koszulka"
+    },
+    {
+      "en": "trousers",
+      "pl": "spodnie"
+    },
+    {
+      "en": "trainers",
+      "pl": "buty sportowe"
+    },
+    {
+      "en": "tracksuit",
+      "pl": "dres"
+    },
+    {
+      "en": "top",
+      "pl": "bluzka, top"
+    },
+    {
+      "en": "tight",
+      "pl": "wąski, ciasny"
+    },
+    {
+      "en": "tie",
+      "pl": "krawat"
+    },
+    {
+      "en": "sweatshirt",
+      "pl": "bluza"
+    },
+    {
+      "en": "style",
+      "pl": "styl"
+    },
+    {
+      "en": "sock",
+      "pl": "skarpeta"
+    },
+    {
+      "en": "smart",
+      "pl": "elegancki"
+    },
+    {
+      "en": "slippers",
+      "pl": "kapcie"
+    },
+    {
+      "en": "skirt",
+      "pl": "spódnica"
+    },
+    {
+      "en": "size",
+      "pl": "rozmiar"
+    },
+    {
+      "en": "shoe",
+      "pl": "but"
+    },
+    {
+      "en": "shirt",
+      "pl": "koszula"
+    },
+    {
+      "en": "scarf",
+      "pl": "szalik"
+    },
+    {
+      "en": "sandal",
+      "pl": "sandał"
+    },
+    {
+      "en": "ring",
+      "pl": "pierścionek"
+    },
+    {
+      "en": "rucksack",
+      "pl": "plecak"
+    },
+    {
+      "en": "pyjamas",
+      "pl": "piżama"
+    },
+    {
+      "en": "plain",
+      "pl": "gładki"
+    },
+    {
+      "en": "pattern",
+      "pl": "wzór"
+    },
+    {
+      "en": "outfit",
+      "pl": "kostium"
+    },
+    {
+      "en": "necklace",
+      "pl": "naszyjnik"
+    },
+    {
+      "en": "jumper",
+      "pl": "sweter"
+    },
+    {
+      "en": "jewellery",
+      "pl": "biżuteria"
+    },
+    {
+      "en": "jacket",
+      "pl": "marynarka, żakiet"
+    },
+    {
+      "en": "hat",
+      "pl": "kapelusz"
+    },
+    {
+      "en": "gloves",
+      "pl": "rękawiczki"
+    },
+    {
+      "en": "glasses",
+      "pl": "okulary"
+    }
+  ]

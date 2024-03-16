@@ -1,0 +1,510 @@
+[
+    {
+      "en": "always",
+      "pl": "zawsze"
+    },
+    {
+      "en": "at the moment",
+      "pl": "w tej chwili"
+    },
+    {
+      "en": "at the weekend",
+      "pl": "w weekend"
+    },
+    {
+      "en": "every day",
+      "pl": "codziennie"
+    },
+    {
+      "en": "in the afternoon",
+      "pl": "po południu"
+    },
+    {
+      "en": "in the evening",
+      "pl": "wieczorem"
+    },
+    {
+      "en": "in the morning",
+      "pl": "rano"
+    },
+    {
+      "en": "never",
+      "pl": "nigdy"
+    },
+    {
+      "en": "night",
+      "pl": "noc"
+    },
+    {
+      "en": "often",
+      "pl": "często"
+    },
+    {
+      "en": "once a week",
+      "pl": "raz w tygodniu"
+    },
+    {
+      "en": "rarely",
+      "pl": "rzadko"
+    },
+    {
+      "en": "sometimes",
+      "pl": "czasami"
+    },
+    {
+      "en": "today",
+      "pl": "dzisiaj"
+    },
+    {
+      "en": "tonight",
+      "pl": "dziś wieczorem"
+    },
+    {
+      "en": "usually",
+      "pl": "zwykle"
+    },
+    {
+      "en": "brush",
+      "pl": "szczotkować"
+    },
+    {
+      "en": "clean",
+      "pl": "czyścić"
+    },
+    {
+      "en": "get dressed",
+      "pl": "ubierać się"
+    },
+    {
+      "en": "get home",
+      "pl": "wracać do domu"
+    },
+    {
+      "en": "get up",
+      "pl": "wstawać"
+    },
+    {
+      "en": "go",
+      "pl": "iść"
+    },
+    {
+      "en": "go home",
+      "pl": "iść do domu"
+    },
+    {
+      "en": "go to bed",
+      "pl": "iść spać"
+    },
+    {
+      "en": "go to school",
+      "pl": "iść do szkoły"
+    },
+    {
+      "en": "go to work",
+      "pl": "iść do pracy"
+    },
+    {
+      "en": "have breakfast",
+      "pl": "jeść śniadanie"
+    },
+    {
+      "en": "have dinner",
+      "pl": "jeść obiad"
+    },
+    {
+      "en": "have lunch",
+      "pl": "jeść lunch"
+    },
+    {
+      "en": "homework",
+      "pl": "praca domowa"
+    },
+    {
+      "en": "make dinner",
+      "pl": "robić obiad"
+    },
+    {
+      "en": "make one's bed",
+      "pl": "ścielić łóżko"
+    },
+    {
+      "en": "relax",
+      "pl": "odpoczywać"
+    },
+    {
+      "en": "sleep",
+      "pl": "spać"
+    },
+    {
+      "en": "stay(at) home",
+      "pl": "zostać w domu"
+    },
+    {
+      "en": "study",
+      "pl": "uczyć się"
+    },
+    {
+      "en": "wake(up)",
+      "pl": "budzić(się)"
+    },
+    {
+      "en": "walk",
+      "pl": "spacerować"
+    },
+    {
+      "en": "wash",
+      "pl": "prać, myć"
+    },
+    {
+      "en": "watch",
+      "pl": "oglądać"
+    },
+    {
+      "en": "come round",
+      "pl": "przychodzić z wizytą"
+    },
+    {
+      "en": "do homework",
+      "pl": "odrabiać pracę domową"
+    },
+    {
+      "en": "do the shopping",
+      "pl": "robić zakupy"
+    },
+    {
+      "en": "go for a walk",
+      "pl": "iść na spacer"
+    },
+    {
+      "en": "go on holiday",
+      "pl": "jechać na wakacje"
+    },
+    {
+      "en": "go shopping",
+      "pl": "iść na zakupy"
+    },
+    {
+      "en": "go swimming",
+      "pl": "iść pływać"
+    },
+    {
+      "en": "go to the cinema",
+      "pl": "iść do kina"
+    },
+    {
+      "en": "hang out",
+      "pl": "przesiadywać"
+    },
+    {
+      "en": "horse riding",
+      "pl": "jazda konna"
+    },
+    {
+      "en": "join a club",
+      "pl": "zapisać się do klubu"
+    },
+    {
+      "en": "listen to music",
+      "pl": "słuchać muzyki"
+    },
+    {
+      "en": "meet friends",
+      "pl": "spotykać przyjaciół"
+    },
+    {
+      "en": "phone friends",
+      "pl": "dzwonić do przyjaciół"
+    },
+    {
+      "en": "visit friends",
+      "pl": "odwiedzać przyjaciół"
+    },
+    {
+      "en": "meet people",
+      "pl": "poznać, spotykać ludzi"
+    },
+    {
+      "en": "play",
+      "pl": "grać"
+    },
+    {
+      "en": "play a musical instrument",
+      "pl": "grać na instrumencie muzycznym"
+    },
+    {
+      "en": "play chess",
+      "pl": "grać w szachy"
+    },
+    {
+      "en": "play football",
+      "pl": "grać w piłkę nożną"
+    },
+    {
+      "en": "play the guitar",
+      "pl": "grać na gitarze"
+    },
+    {
+      "en": "read",
+      "pl": "czytać"
+    },
+    {
+      "en": "read books",
+      "pl": "czytać książki"
+    },
+    {
+      "en": "read magazines",
+      "pl": "czytać czasopisma"
+    },
+    {
+      "en": "ride a bicycle",
+      "pl": "jeździć na rowerze"
+    },
+    {
+      "en": "send",
+      "pl": "wysyłać"
+    },
+    {
+      "en": "surf the internet",
+      "pl": "surfować w internecie"
+    },
+    {
+      "en": "take sth up",
+      "pl": "zacząć coś regularnie robić"
+    },
+    {
+      "en": "tell a joke",
+      "pl": "opowiadać dowcip"
+    },
+    {
+      "en": "walk around",
+      "pl": "spacerować"
+    },
+    {
+      "en": "walk home",
+      "pl": "iść pieszo do domu"
+    },
+    {
+      "en": "watch TV",
+      "pl": "oglądać telewizję"
+    },
+    {
+      "en": "anniversary",
+      "pl": "rocznica"
+    },
+    {
+      "en": "annual holiday",
+      "pl": "coroczne święto"
+    },
+    {
+      "en": "birthday",
+      "pl": "urodziny"
+    },
+    {
+      "en": "cake",
+      "pl": "ciasto"
+    },
+    {
+      "en": "carnival",
+      "pl": "karnawał"
+    },
+    {
+      "en": "celebrate",
+      "pl": "świętować"
+    },
+    {
+      "en": "celebration",
+      "pl": "uroczystość"
+    },
+    {
+      "en": "ceremony",
+      "pl": "ceremonia"
+    },
+    {
+      "en": "cheers",
+      "pl": "na zdrowie"
+    },
+    {
+      "en": "christening",
+      "pl": "chrzciny"
+    },
+    {
+      "en": "Christmas",
+      "pl": "święta Bożego Narodzenia"
+    },
+    {
+      "en": "church",
+      "pl": "kościół"
+    },
+    {
+      "en": "costume",
+      "pl": "kostium"
+    },
+    {
+      "en": "dance",
+      "pl": "tańczyć"
+    },
+    {
+      "en": "dress up",
+      "pl": "przebierać się"
+    },
+    {
+      "en": "Easter",
+      "pl": "Wielkanoc"
+    },
+    {
+      "en": "festival",
+      "pl": "festiwal, święto"
+    },
+    {
+      "en": "fireworks",
+      "pl": "sztuczne ognie, fajerwerki"
+    },
+    {
+      "en": "guest",
+      "pl": "gość"
+    },
+    {
+      "en": "mask",
+      "pl": "maska"
+    },
+    {
+      "en": "wedding dress",
+      "pl": "suknia ślubna"
+    },
+    {
+      "en": "wedding",
+      "pl": "ślub, wesele"
+    },
+    {
+      "en": "aunt",
+      "pl": "ciotka"
+    },
+    {
+      "en": "brother",
+      "pl": "brat"
+    },
+    {
+      "en": "cousin",
+      "pl": "kuzyn"
+    },
+    {
+      "en": "dad",
+      "pl": "tata"
+    },
+    {
+      "en": "daughter",
+      "pl": "córka"
+    },
+    {
+      "en": "divorced",
+      "pl": "rozwiedziony"
+    },
+    {
+      "en": "ex-husband",
+      "pl": "były mąż"
+    },
+    {
+      "en": "ex-wife",
+      "pl": "była żona"
+    },
+    {
+      "en": "family",
+      "pl": "rodzina"
+    },
+    {
+      "en": "family tree",
+      "pl": "drzewo genealogiczne"
+    },
+    {
+      "en": "father",
+      "pl": "ojciec"
+    },
+    {
+      "en": "fiancé",
+      "pl": "narzeczony"
+    },
+    {
+      "en": "fiancée",
+      "pl": "narzeczona"
+    },
+    {
+      "en": "granddaughter",
+      "pl": "wnuczka"
+    },
+    {
+      "en": "grandfather",
+      "pl": "dziadek"
+    },
+    {
+      "en": "grandmother",
+      "pl": "babcia"
+    },
+    {
+      "en": "grandson",
+      "pl": "wnuk"
+    },
+    {
+      "en": "husband",
+      "pl": "mąż"
+    },
+    {
+      "en": "little sister",
+      "pl": "młodsza siostra"
+    },
+    {
+      "en": "mother",
+      "pl": "matka"
+    },
+    {
+      "en": "mum",
+      "pl": "mama"
+    },
+    {
+      "en": "nephew",
+      "pl": "siostrzeniec, bratanek"
+    },
+    {
+      "en": "niece",
+      "pl": "siostrzenica, bratanica"
+    },
+    {
+      "en": "parent",
+      "pl": "rodzic"
+    },
+    {
+      "en": "relative",
+      "pl": "krewny"
+    },
+    {
+      "en": "sister",
+      "pl": "siostra"
+    },
+    {
+      "en": "son",
+      "pl": "syn"
+    },
+    {
+      "en": "stepbrother",
+      "pl": "przyrodni brat"
+    },
+    {
+      "en": "stepfather",
+      "pl": "ojczym"
+    },
+    {
+      "en": "stepmother",
+      "pl": "macocha"
+    },
+    {
+      "en": "stepsister",
+      "pl": "przyrodnia siostra"
+    },
+    {
+      "en": "twin",
+      "pl": "bliźniak/bliźniaczka"
+    },
+    {
+      "en": "uncle",
+      "pl": "wujek"
+    }
+  ]

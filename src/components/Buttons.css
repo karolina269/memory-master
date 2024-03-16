@@ -1,3 +1,7 @@
-button {
+.buttons {
+  margin-bottom: 2rem;
+}
+
+.buttons button {
   margin: 0.25rem;
 }

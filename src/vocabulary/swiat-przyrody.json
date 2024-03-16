@@ -1,0 +1,522 @@
+[
+    {
+        "en": "beach",
+        "pl": "plaża"
+    },
+    {
+        "en": "cave",
+        "pl": "jaskinia"
+    },
+    {
+        "en": "city",
+        "pl": "miasto"
+    },
+    {
+        "en": "cliff",
+        "pl": "klif"
+    },
+    {
+        "en": "coast",
+        "pl": "wybrzeże"
+    },
+    {
+        "en": "coastline",
+        "pl": "linia brzegowa"
+    },
+    {
+        "en": "coral reef",
+        "pl": "rafa koralowa"
+    },
+    {
+        "en": "country",
+        "pl": "wieś"
+    },
+    {
+        "en": "countryside",
+        "pl": "krajobraz wiejski"
+    },
+    {
+        "en": "desert",
+        "pl": "pustynia"
+    },
+    {
+        "en": "desert island",
+        "pl": "bezludna wyspa"
+    },
+    {
+        "en": "earth",
+        "pl": "ziemia"
+    },
+    {
+        "en": "field",
+        "pl": "pole"
+    },
+    {
+        "en": "forest",
+        "pl": "las"
+    },
+    {
+        "en": "glacier",
+        "pl": "lodowiec"
+    },
+    {
+        "en": "hill",
+        "pl": "wzgórze"
+    },
+    {
+        "en": "hillside",
+        "pl": "zbocze"
+    },
+    {
+        "en": "ice shelf",
+        "pl": "gruba warstwa lodu"
+    },
+    {
+        "en": "inland",
+        "pl": "śródlądowy"
+    },
+    {
+        "en": "island",
+        "pl": "wyspa"
+    },
+    {
+        "en": "jungle",
+        "pl": "dżungla"
+    },
+    {
+        "en": "lake",
+        "pl": "jezioro"
+    },
+    {
+        "en": "land",
+        "pl": "ląd"
+    },
+    {
+        "en": "landscape",
+        "pl": "krajobraz wiejski"
+    },
+    {
+        "en": "mainland",
+        "pl": "stały ląd"
+    },
+    {
+        "en": "mountain",
+        "pl": "góra"
+    },
+    {
+        "en": "national park",
+        "pl": "park narodowy"
+    },
+    {
+        "en": "nature",
+        "pl": "przyroda"
+    },
+    {
+        "en": "ocean",
+        "pl": "ocean"
+    },
+    {
+        "en": "pond",
+        "pl": "staw"
+    },
+    {
+        "en": "rainforest",
+        "pl": "las deszczowy"
+    },
+    {
+        "en": "region",
+        "pl": "region"
+    },
+    {
+        "en": "river",
+        "pl": "rzeka"
+    },
+    {
+        "en": "rock",
+        "pl": "skała"
+    },
+    {
+        "en": "sea",
+        "pl": "morze"
+    },
+    {
+        "en": "town",
+        "pl": "miasto"
+    },
+    {
+        "en": "valley",
+        "pl": "dolina"
+    },
+    {
+        "en": "village",
+        "pl": "wieś"
+    },
+    {
+        "en": "wave",
+        "pl": "fala"
+    },
+    {
+        "en": "world",
+        "pl": "świat"
+    },
+    {
+        "en": "winter",
+        "pl": "zima"
+    },
+    {
+        "en": "windy",
+        "pl": "wietrzny"
+    },
+    {
+        "en": "wind",
+        "pl": "wiatr"
+    },
+    {
+        "en": "wet",
+        "pl": "mokry"
+    },
+    {
+        "en": "weather",
+        "pl": "pogoda"
+    },
+    {
+        "en": "warm",
+        "pl": "ciepły"
+    },
+    {
+        "en": "tsunami",
+        "pl": "tsunami"
+    },
+    {
+        "en": "tornado",
+        "pl": "tornado"
+    },
+    {
+        "en": "thundery",
+        "pl": "burzowy"
+    },
+    {
+        "en": "thermometer",
+        "pl": "termometr"
+    },
+    {
+        "en": "temperature",
+        "pl": "temperatura"
+    },
+    {
+        "en": "sunny",
+        "pl": "słoneczny"
+    },
+    {
+        "en": "summer",
+        "pl": "lato"
+    },
+    {
+        "en": "storm",
+        "pl": "burza"
+    },
+    {
+        "en": "spring",
+        "pl": "wiosna"
+    },
+    {
+        "en": "snowy",
+        "pl": "śnieżny"
+    },
+    {
+        "en": "snow",
+        "pl": "śnieg"
+    },
+    {
+        "en": "season",
+        "pl": "pora roku"
+    },
+    {
+        "en": "rainy",
+        "pl": "deszczowy"
+    },
+    {
+        "en": "rain",
+        "pl": "deszcz"
+    },
+    {
+        "en": "icy",
+        "pl": "lodowaty"
+    },
+    {
+        "en": "hurricane",
+        "pl": "huragan"
+    },
+    {
+        "en": "hot",
+        "pl": "gorący"
+    },
+    {
+        "en": "hail",
+        "pl": "grad"
+    },
+    {
+        "en": "freezing",
+        "pl": "mroźny"
+    },
+    {
+        "en": "foggy",
+        "pl": "mglisty"
+    },
+    {
+        "en": "flood",
+        "pl": "powódź"
+    },
+    {
+        "en": "fire",
+        "pl": "pożar"
+    },
+    {
+        "en": "dry",
+        "pl": "suchy"
+    },
+    {
+        "en": "drought",
+        "pl": "susza"
+    },
+    {
+        "en": "cool",
+        "pl": "chłodny"
+    },
+    {
+        "en": "cold",
+        "pl": "zimny"
+    },
+    {
+        "en": "cloudy",
+        "pl": "zachmurzony"
+    },
+    {
+        "en": "cloud",
+        "pl": "chmura"
+    },
+    {
+        "en": "climate",
+        "pl": "klimat"
+    },
+    {
+        "en": "boiling",
+        "pl": "bardzo gorący"
+    },
+    {
+        "en": "blow",
+        "pl": "wiać"
+    },
+    {
+        "en": "blizzard",
+        "pl": "zamieć"
+    },
+    {
+        "en": "autumn",
+        "pl": "jesień"
+    },
+    {
+        "en": "January",
+        "pl": "styczeń"
+    },
+    {
+        "en": "February",
+        "pl": "luty"
+    },
+    {
+        "en": "March",
+        "pl": "marzec"
+    },
+    {
+        "en": "April",
+        "pl": "kwiecień"
+    },
+    {
+        "en": "May",
+        "pl": "maj"
+    },
+    {
+        "en": "June",
+        "pl": "czerwiec"
+    },
+    {
+        "en": "July",
+        "pl": "lipiec"
+    },
+    {
+        "en": "August",
+        "pl": "sierpień"
+    },
+    {
+        "en": "September",
+        "pl": "wrzesień"
+    },
+    {
+        "en": "October",
+        "pl": "październik"
+    },
+    {
+        "en": "November",
+        "pl": "listopad"
+    },
+    {
+        "en": "December",
+        "pl": "grudzień"
+    },
+    {
+        "en": "alligator",
+        "pl": "aligator"
+    },
+    {
+        "en": "anaconda",
+        "pl": "anakonda"
+    },
+    {
+        "en": "bear",
+        "pl": "niedźwiedź"
+    },
+    {
+        "en": "bird",
+        "pl": "ptak"
+    },
+    {
+        "en": "bull",
+        "pl": "byk"
+    },
+    {
+        "en": "camel",
+        "pl": "wielbłąd"
+    },
+    {
+        "en": "cat",
+        "pl": "kot"
+    },
+    {
+        "en": "cheetah",
+        "pl": "gepard"
+    },
+    {
+        "en": "chicken",
+        "pl": "kurczak"
+    },
+    {
+        "en": "chimpanzee",
+        "pl": "szympans"
+    },
+    {
+        "en": "cockroach",
+        "pl": "karaluch"
+    },
+    {
+        "en": "cow",
+        "pl": "krowa"
+    },
+    {
+        "en": "crocodile",
+        "pl": "krokodyl"
+    },
+    {
+        "en": "dinosaur",
+        "pl": "dinozaur"
+    },
+    {
+        "en": "dog",
+        "pl": "pies"
+    },
+    {
+        "en": "dolphin",
+        "pl": "delfin"
+    },
+    {
+        "en": "donkey",
+        "pl": "osioł"
+    },
+    {
+        "en": "eagle",
+        "pl": "orzeł"
+    },
+    {
+        "en": "elephant",
+        "pl": "słoń"
+    },
+    {
+        "en": "fish",
+        "pl": "ryba"
+    },
+    {
+        "en": "frog",
+        "pl": "żaba"
+    },
+    {
+        "en": "giraffe",
+        "pl": "żyrafa"
+    },
+    {
+        "en": "goat",
+        "pl": "koza"
+    },
+    {
+        "en": "gorilla",
+        "pl": "goryl"
+    },
+    {
+        "en": "hamster",
+        "pl": "chomik"
+    },
+    {
+        "en": "horse",
+        "pl": "koń"
+    },
+    {
+        "en": "insect",
+        "pl": "owad"
+    },
+    {
+        "en": "jellyfish",
+        "pl": "meduza"
+    },
+    {
+        "en": "kangaroo",
+        "pl": "kangur"
+    },
+    {
+        "en": "leopard",
+        "pl": "lampart"
+    },
+    {
+        "en": "lion",
+        "pl": "lew"
+    },
+    {
+        "en": "lizard",
+        "pl": "jaszczurka"
+    },
+    {
+        "en": "mammal",
+        "pl": "ssak"
+    },
+    {
+        "en": "monkey",
+        "pl": "małpa"
+    },
+    {
+        "en": "mosquito",
+        "pl": "komar"
+    },
+    {
+        "en": "mouse",
+        "pl": "mysz"
+    },
+    {
+        "en": "octopus",
+        "pl": "ośmiornica"
+    },
+    {
+        "en": "ostrich",
+        "pl": "struś"
+    },
+    {
+        "en": "owl",
+        "pl": "sowa"
+    }
+]
