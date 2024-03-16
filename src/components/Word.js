@@ -10,12 +10,12 @@ const Word = (props) => {
         } else {
             setMessage("")
         }
-      }, [currentInput]);
+      }, [currentInput, props.word.en]);
 
     return (
-        <form key={props.index}>
+        <form key={props.index} autoComplete="new-password">
              <label htmlFor={props.word.pl}>{props.word.pl}</label>
-             <input id={props.word.pl} type="text" onChange={(e) => setCurrentInput(e.target.value)} />
+             <input id={props.word.pl} type="text" onChange={(e) => setCurrentInput(e.target.value)} autoComplete="off" />
              <span>{message}</span>
         </form>
     );
