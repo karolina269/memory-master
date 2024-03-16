@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/memory-master/static/css/main.5b493d55.css",
+    "main.css": "/memory-master/static/css/main.25cf766b.css",
     "main.js": "/memory-master/static/js/main.1d79cc12.js",
     "static/js/453.b6441cb3.chunk.js": "/memory-master/static/js/453.b6441cb3.chunk.js",
     "index.html": "/memory-master/index.html",
-    "main.5b493d55.css.map": "/memory-master/static/css/main.5b493d55.css.map",
+    "main.25cf766b.css.map": "/memory-master/static/css/main.25cf766b.css.map",
     "main.1d79cc12.js.map": "/memory-master/static/js/main.1d79cc12.js.map",
     "453.b6441cb3.chunk.js.map": "/memory-master/static/js/453.b6441cb3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5b493d55.css",
+    "static/css/main.25cf766b.css",
     "static/js/main.1d79cc12.js"
   ]
 }
