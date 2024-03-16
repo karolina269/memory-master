@@ -13,7 +13,7 @@ function App() {
 <h1>Memory Master 2024</h1>
 <p>8th grade</p>
       </header>
-      <Buttons setCurrentCategory={setCurrentCategory}/>
+      <Buttons setCurrentCategory={setCurrentCategory} currentCategory={currentCategory}/>
       <List currentCategory={currentCategory} />
     </div>
   );

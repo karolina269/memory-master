@@ -1,0 +1,8 @@
+.show {
+    margin: 0 1rem 0 3rem;
+    background-color: gray;
+}
+
+.message {
+    max-width: 2rem;
+}
