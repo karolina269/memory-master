@@ -1,0 +1,522 @@
+[
+    {
+      "en": "adult",
+      "pl": "dorosły"
+    },
+    {
+      "en": "age",
+      "pl": "wiek"
+    },
+    {
+      "en": "born(be born)",
+      "pl": "urodzony(urodzić się)"
+    },
+    {
+      "en": "date of birth",
+      "pl": "data urodzenia"
+    },
+    {
+      "en": "family",
+      "pl": "rodzina"
+    },
+    {
+      "en": "home",
+      "pl": "dom"
+    },
+    {
+      "en": "identity",
+      "pl": "tożsamość"
+    },
+    {
+      "en": "interests",
+      "pl": "zainteresowania"
+    },
+    {
+      "en": "man",
+      "pl": "mężczyzna"
+    },
+    {
+      "en": "married",
+      "pl": "żonaty"
+    },
+    {
+      "en": "name",
+      "pl": "imię"
+    },
+    {
+      "en": "nationality",
+      "pl": "narodowość"
+    },
+    {
+      "en": "young",
+      "pl": "młody"
+    },
+    {
+      "en": "woman",
+      "pl": "kobieta"
+    },
+    {
+      "en": "teenager",
+      "pl": "nastolatek/nastolatka"
+    },
+    {
+      "en": "surname",
+      "pl": "nazwisko"
+    },
+    {
+      "en": "old",
+      "pl": "stary"
+    },
+    {
+      "en": "nickname",
+      "pl": "przydomek,przezwisko"
+    },
+    {
+      "en": "active",
+      "pl": "aktywny"
+    },
+    {
+      "en": "aggressive",
+      "pl": "agresywny"
+    },
+    {
+      "en": "ambitious",
+      "pl": "ambitny"
+    },
+    {
+      "en": "bad",
+      "pl": "zły"
+    },
+    {
+      "en": "bad-tempered",
+      "pl": "wybuchowy"
+    },
+    {
+      "en": "balanced",
+      "pl": "zrównoważony"
+    },
+    {
+      "en": "bossy",
+      "pl": "apodyktyczny"
+    },
+    {
+      "en": "brave",
+      "pl": "dzielny,odważny"
+    },
+    {
+      "en": "careful",
+      "pl": "ostrożny"
+    },
+    {
+      "en": "caring",
+      "pl": "dbający,troskliwy"
+    },
+    {
+      "en": "cheerful",
+      "pl": "radosny"
+    },
+    {
+      "en": "childish",
+      "pl": "dziecinny"
+    },
+    {
+      "en": "clever",
+      "pl": "zdolny,bystry"
+    },
+    {
+      "en": "confident",
+      "pl": "pewny siebie"
+    },
+    {
+      "en": "creative",
+      "pl": "twórczy"
+    },
+    {
+      "en": "energetic",
+      "pl": "pełen energii"
+    },
+    {
+      "en": "fair",
+      "pl": "sprawiedliwy"
+    },
+    {
+      "en": "friendly",
+      "pl": "przyjazny"
+    },
+    {
+      "en": "funny",
+      "pl": "zabawny,śmieszny"
+    },
+    {
+      "en": "generous",
+      "pl": "hojny"
+    },
+    {
+      "en": "hard-working",
+      "pl": "pracowity"
+    },
+    {
+      "en": "helpful",
+      "pl": "pomocny"
+    },
+    {
+      "en": "honest",
+      "pl": "uczciwy"
+    },
+    {
+      "en": "impatient",
+      "pl": "niecierpliwy"
+    },
+    {
+      "en": "impolite",
+      "pl": "nieuprzejmy,niegrzeczny"
+    },
+    {
+      "en": "impulsive",
+      "pl": "popędliwy"
+    },
+    {
+      "en": "inconsiderate",
+      "pl": "nieliczący się z innymi"
+    },
+    {
+      "en": "intelligent",
+      "pl": "inteligentny"
+    },
+    {
+      "en": "interesting",
+      "pl": "interesujący"
+    },
+    {
+      "en": "irresponsible",
+      "pl": "nieodpowiedzialny"
+    },
+    {
+      "en": "kind",
+      "pl": "uprzejmy"
+    },
+    {
+      "en": "lazy",
+      "pl": "leniwy"
+    },
+    {
+      "en": "lively",
+      "pl": "żywy,żywiołowy"
+    },
+    {
+      "en": "loyal",
+      "pl": "lojalny"
+    },
+    {
+      "en": "lucky",
+      "pl": "mający szczęście"
+    },
+    {
+      "en": "mean",
+      "pl": "skąpy,złośliwy"
+    },
+    {
+      "en": "miserable",
+      "pl": "nieszczęśliwy"
+    },
+    {
+      "en": "moody",
+      "pl": "humorzasty"
+    },
+    {
+      "en": "nasty",
+      "pl": "niemiły"
+    },
+    {
+      "en": "naughty",
+      "pl": "niegrzeczny"
+    },
+    {
+      "en": "nice",
+      "pl": "miły"
+    },
+    {
+      "en": "optimist",
+      "pl": "optymista"
+    },
+    {
+      "en": "optimistic",
+      "pl": "optymistyczny"
+    },
+    {
+      "en": "patient",
+      "pl": "cierpliwy"
+    },
+    {
+      "en": "personality",
+      "pl": "osobowość"
+    },
+    {
+      "en": "pessimist",
+      "pl": "pesymista,pesymistka"
+    },
+    {
+      "en": "polite",
+      "pl": "grzeczny,uprzejmy"
+    },
+    {
+      "en": "practical",
+      "pl": "praktyczny"
+    },
+    {
+      "en": "realist",
+      "pl": "realista"
+    },
+    {
+      "en": "reliable",
+      "pl": "godny zaufania"
+    },
+    {
+      "en": "responsible",
+      "pl": "odpowiedzialny"
+    },
+    {
+      "en": "romantic",
+      "pl": "romantyczny"
+    },
+    {
+      "en": "sad",
+      "pl": "smutny"
+    },
+    {
+      "en": "selfish",
+      "pl": "samolubny"
+    },
+    {
+      "en": "attractive",
+      "pl": "atrakcyjny"
+    },
+    {
+      "en": "bald",
+      "pl": "łysy"
+    },
+    {
+      "en": "beard",
+      "pl": "broda"
+    },
+    {
+      "en": "beautiful",
+      "pl": "piękny"
+    },
+    {
+      "en": "built",
+      "pl": "budowa"
+    },
+    {
+      "en": "description",
+      "pl": "opis"
+    },
+    {
+      "en": "fat",
+      "pl": "gruby"
+    },
+    {
+      "en": "fit",
+      "pl": "sprawny,w dobrej formie"
+    },
+    {
+      "en": "freckles",
+      "pl": "piegi"
+    },
+    {
+      "en": "good-looking",
+      "pl": "atrakcyjny,przystojny"
+    },
+    {
+      "en": "hair",
+      "pl": "włosy"
+    },
+    {
+      "en": "curly hair",
+      "pl": "włosy kręcone"
+    },
+    {
+      "en": "dark hair",
+      "pl": "włosy ciemne"
+    },
+    {
+      "en": "long hair",
+      "pl": "włosy długie"
+    },
+    {
+      "en": "straight hair",
+      "pl": "włosy proste"
+    },
+    {
+      "en": "wavy hair",
+      "pl": "włosy falujące"
+    },
+    {
+      "en": "hairstyle",
+      "pl": "fryzura"
+    },
+    {
+      "en": "handsome",
+      "pl": "przystojny"
+    },
+    {
+      "en": "height",
+      "pl": "wzrost"
+    },
+    {
+      "en": "look like",
+      "pl": "wyglądać jak"
+    },
+    {
+      "en": "make-up",
+      "pl": "makijaż"
+    },
+    {
+      "en": "moustache",
+      "pl": "wąsy"
+    },
+    {
+      "en": "overweight",
+      "pl": "nadwaga"
+    },
+    {
+      "en": "pretty",
+      "pl": "śliczny"
+    },
+    {
+      "en": "scar",
+      "pl": "blizna"
+    },
+    {
+      "en": "short",
+      "pl": "niski,krótki"
+    },
+    {
+      "en": "similar",
+      "pl": "podobny"
+    },
+    {
+      "en": "slim",
+      "pl": "szczupły"
+    },
+    {
+      "en": "smile",
+      "pl": "uśmiechać się"
+    },
+    {
+      "en": "sporty",
+      "pl": "wysportowany"
+    },
+    {
+      "en": "tall",
+      "pl": "wysoki"
+    },
+    {
+      "en": "tattoo",
+      "pl": "tatuaż"
+    },
+    {
+      "en": "thin",
+      "pl": "cienki,chudy"
+    },
+    {
+      "en": "well-known",
+      "pl": "znany"
+    },
+    {
+      "en": "weird",
+      "pl": "dziwny"
+    },
+    {
+      "en": "violent",
+      "pl": "pełen przemocy"
+    },
+    {
+      "en": "tender",
+      "pl": "czuły"
+    },
+    {
+      "en": "stupid",
+      "pl": "głupi"
+    },
+    {
+      "en": "shy",
+      "pl": "nieśmiały"
+    },
+    {
+      "en": "serious",
+      "pl": "poważny"
+    },
+    {
+      "en": "sensitive",
+      "pl": "wrażliwy"
+    },
+    {
+      "en": "sensible",
+      "pl": "rozsądny"
+    },
+    {
+      "en": "admire",
+      "pl": "podziwiać"
+    },
+    {
+      "en": "adore",
+      "pl": "uwielbiać"
+    },
+    {
+      "en": "angry",
+      "pl": "zły"
+    },
+    {
+      "en": "annoyed",
+      "pl": "zirytowany"
+    },
+    {
+      "en": "bored",
+      "pl": "znudzony"
+    },
+    {
+      "en": "calm",
+      "pl": "spokojny"
+    },
+    {
+      "en": "chilled",
+      "pl": "zrelaksowany,odprężony"
+    },
+    {
+      "en": "confused",
+      "pl": "zmieszany"
+    },
+    {
+      "en": "cross",
+      "pl": "zły"
+    },
+    {
+      "en": "depressed",
+      "pl": "przygnębiony"
+    },
+    {
+      "en": "disappointed",
+      "pl": "rozczarowany"
+    },
+    {
+      "en": "dislike",
+      "pl": "nie lubić"
+    },
+    {
+      "en": "emotion",
+      "pl": "wzruszenie,emocja"
+    },
+    {
+      "en": "excited",
+      "pl": "podekscytowany"
+    },
+    {
+      "en": "fancy",
+      "pl": "mieć ochotę"
+    },
+    {
+      "en": "feel",
+      "pl": "czuć"
+    }
+   ]
