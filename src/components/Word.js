@@ -8,7 +8,7 @@ const Word = (props) => {
   const ref = useRef(null);
 
   useEffect(() => {
-    if (currentInput === props.word.en) {
+    if (currentInput.replace(/\s+/g, '') === props.word.en.replace(/\s+/g, '')) {
       setMessage("+1");
     } else {
       setMessage("");
